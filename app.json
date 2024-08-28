@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "class60-p",
+    "slug": "snack-f27c72aa-b178-4611-8d69-88d73829889d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.roseshadow.snackf27c72aab17846118d6988d73829889d"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
